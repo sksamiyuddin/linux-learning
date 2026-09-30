@@ -1,2 +1,1 @@
-# linux-learning
-My Linux learning journey, notes, commands, and practice.
+A collection of my Linux notes, commands, and hands-on practice.
